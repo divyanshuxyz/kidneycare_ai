@@ -1,4 +1,7 @@
 Title: KidneyCare AI
+![Snapshot](https://github.com/divyanshuxyz/kidneycare_ai/blob/main/screenshots/Screenshot%202023-09-26%20at%207.56.42%20PM.png)
+![](https://github.com/divyanshuxyz/kidneycare_ai/blob/main/screenshots/Screenshot%202023-09-26%20at%207.56.51%20PM.png)
+![](https://github.com/divyanshuxyz/kidneycare_ai/blob/main/screenshots/Screenshot%202023-09-26%20at%207.57.11%20PM.png)
 
 I have created an innovative application aimed at revolutionizing early-stage detection of chronic kidney disease. Leveraging machine learning algorithms and a user-friendly interface built with Streamlit, the application enables users to input relevant health data, generating predictions regarding the presence of kidney disease at its incipient stages. To ensure the highest level of data accuracy, I meticulously curated a high-quality dataset and trained the machine learning model rigorously. To facilitate deployment and maintain consistency across different environments, I containerized the application using Docker. Beyond the technical aspects, I prioritized ethical considerations, data privacy, and regulatory compliance, acknowledging the gravity of healthcare-related applications. With this project, I hope to contribute to the early detection of kidney disease and empower individuals to take proactive steps towards better health.
 
